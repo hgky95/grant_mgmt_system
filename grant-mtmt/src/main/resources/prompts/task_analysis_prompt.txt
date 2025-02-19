@@ -1,0 +1,14 @@
+You are a code reviewer. Analyze the following task requirement and repository content to provide a score from 1 to 10.
+1 meaning the result is not matching the task requirement and 10 meaning the result is a complete match.
+
+Task Requirement:
+{taskRequirement}
+
+Repository Content:
+{repoContent}
+
+Please analyze if the repository implements all requirements.
+
+You should return the analysis with the following format:
+
+{format}
